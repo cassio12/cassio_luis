@@ -17,4 +17,4 @@ Atualmente, estou buscando novas oportunidades como desenvolvedor Front-end e es
 
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/cassio-luis-xavier/)
-- [Email](cassioprazeres241@gmail.com)
+- [Email](mailto:cassioprazeres241@gmail.com)
