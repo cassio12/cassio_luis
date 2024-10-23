@@ -10,8 +10,12 @@ Sou desenvolvedor Front-end com experiência em React, TypeScript e Redux. Tenho
 - **Banco de Dados**: PostgreSQL
 - **Outras Tecnologias**: Google Cloud Platform, APIs REST
 
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUARIO&layout=compact)
+
 ## Objetivos
 Atualmente, estou buscando novas oportunidades como desenvolvedor Front-end e estou focado em me especializar ainda mais em React e no ecossistema JavaScript. Também tenho interesse em trabalhar em projetos que envolvam UX/UI e acessibilidade.
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=radical)
 
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/cassio-luis-xavier/)
