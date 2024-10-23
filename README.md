@@ -1,5 +1,3 @@
-# cassio_luis
-
 # Olá, me chamo Cassio Luis Xavier. 👋
 
 ## Sobre Mim
